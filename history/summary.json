@@ -22,7 +22,7 @@
     "url": "https://uptime-testing--wisard-1000.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/uptime-testing--wisard-1000.repl.co.ico",
     "slug": "8-b-class-uptime-kuma",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 429,
     "timeMonth": 415,
     "timeYear": 415,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-05": 0
+    }
   }
 ]
