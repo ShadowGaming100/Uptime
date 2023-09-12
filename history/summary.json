@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptime-kuma--8b-class1.repl.co.ico",
     "slug": "wisard-gaming-uptime-kuma",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 1315,
-    "timeDay": 500,
-    "timeWeek": 2096,
-    "timeMonth": 1315,
-    "timeYear": 1315,
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 1252,
+    "timeDay": 192,
+    "timeWeek": 2054,
+    "timeMonth": 1252,
+    "timeYear": 1252,
     "dailyMinutesDown": {
       "2023-09-07": 46
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 1541,
-    "timeDay": 441,
-    "timeWeek": 2429,
-    "timeMonth": 1541,
-    "timeYear": 1541,
+    "time": 1470,
+    "timeDay": 197,
+    "timeWeek": 2420,
+    "timeMonth": 1470,
+    "timeYear": 1470,
     "dailyMinutesDown": {
       "2023-09-07": 22
     }
