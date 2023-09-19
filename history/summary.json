@@ -4,9 +4,9 @@
     "url": "https://uptime-kuma--8b-class1.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/uptime-kuma--8b-class1.repl.co.ico",
     "slug": "wisard-gaming-uptime-kuma",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
@@ -16,6 +16,7 @@
     "timeMonth": 971,
     "timeYear": 971,
     "dailyMinutesDown": {
+      "2023-09-19": 0,
       "2023-09-14": 16,
       "2023-09-07": 46
     }
