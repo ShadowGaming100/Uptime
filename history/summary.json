@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptime-kuma--8b-class1.repl.co.ico",
     "slug": "wisard-gaming-uptime-kuma",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
     "time": 894,
     "timeDay": 350,
-    "timeWeek": 491,
+    "timeWeek": 495,
     "timeMonth": 894,
     "timeYear": 894,
     "dailyMinutesDown": {
@@ -26,9 +26,9 @@
     "url": "https://uptime-testing--wisard-1000.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/uptime-testing--wisard-1000.repl.co.ico",
     "slug": "8-b-class-uptime-kuma",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -38,6 +38,7 @@
     "timeMonth": 1083,
     "timeYear": 1083,
     "dailyMinutesDown": {
+      "2023-09-22": 0,
       "2023-09-07": 22
     }
   }
